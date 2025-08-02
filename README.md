@@ -56,7 +56,6 @@ framework, and Haripriya and Bhagirath Mehta from MehtA+ Tutoring for guiding us
 
 ## 📜 Citation
 
-If you use this work, please cite:
 
 [Ma et al.(2024)] Zhiwei Ma, Javier E. Santos, Greg Lackey, Hari Viswanathan, and Daniel O’Malley.
 “Information Extraction from Historical Well Records Using a Large Language Model.” Scientific Reports,
